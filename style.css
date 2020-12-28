@@ -1,0 +1,16 @@
+/* style */
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+img{
+    width: 200px;
+}
+*, *::after, *::before{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    text-align: center;
+    background: linear-gradient( to right, red, yellow);
+}
